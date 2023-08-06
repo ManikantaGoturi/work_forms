@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/travel-concept-with-landmarks_23-2149153256.jpg?t=st=1653758673~exp=1653759273~hmac=b9826add4cd61c2eb15eaeab72dfce83a77a959e967f4d511c79c63e68317886&w=1060");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading1 {
+    font-family: "Playfair";
+    font-style: "italic";
+}
+
+.paragraph {
+    font-family: "Roboto";
+}
+
+.button {
+    color: white;
+    background-color: #25b1cc;
+    width: 138px;
+    height: 36px;
+    border-width: 0px;
+    border-radius: 20px;
+}
+
+.background-pic {
+    background-image: url("http://wallpapershome.com/images/pages/pic_v/7043.jpg");
+    height: 180vh;
+    background-size: cover;
+
+}
+
+.main-heading2 {
+    font-size: 30px;
+    font-family: "Playfair";
+    font-weight: bold;
+    padding: 40px;
+    color: purple;
+    padding: 10px;
+}
+
+.card {
+    background-color: pink;
+    height: 60px;
+    width: 250vh;
+    padding: 10px;
+
+}
+
+.card1 {
+    border-radius: 20px;
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+    border: solid;
+    border-color: blue;
+}
+
+.text {
+    text-align: left;
+    padding: 10px;
+}
+
+.para {
+    color: grey;
+}
+
+.image-smaller {
+    width: 100px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.background-image {
+    background-image: url("https://img.freepik.com/free-photo/wooden-bridge-koh-nangyuan-island-surat-thani-thailand_335224-1082.jpg?t=st=1654267018~exp=1654267618~hmac=7f3b664a40c0f9783ce03501bba586c10519d85d4b3da3991d172da89ea094a7&w=996");
+    height: 150vh;
+    background-size: cover;
+}
+
+.detailed-veiw-mainheading {
+    font-family: "Roboto";
+    font-size: 40px;
+    padding: 40px;
+    font-weight: bold;
+    color: darkblue;
+    margin: 20px;
+}
+
+.detailed-view-card {
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.main-heading3 {
+    font-size: 25px;
+    color: orange;
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+.description {
+    font-size: 15px;
+    font-family: "Roboto";
+    padding: 20px;
+}
